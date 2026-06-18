@@ -1,0 +1,18 @@
+# Build output
+Debug/
+Release/
+
+# CubeIDE
+.settings/
+
+# Object files
+*.o
+*.d
+*.su
+
+# Executables
+*.elf
+*.hex
+*.bin
+*.map
+*.list
